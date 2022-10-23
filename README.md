@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @m2mbr
 - 👀 I’m interested in Python, Rust, C, C++, Nodejs, Angular, React...
-- 🌱 I’m currently learning IHC, Functional programming
+- 🌱 I’m currently learning *IHC, Functional programming*
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me GitHub
+- 📫 How to reach me *GitHub*
 
 <!---
 m2mbr/m2mbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
